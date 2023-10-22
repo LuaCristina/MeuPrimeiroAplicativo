@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:text="@string/first_label"
         android:textColor="@color/red"
-        android:textSize="32sp"
+        android:textSize="@dimen/text_size"
         android:textStyle="italic|bold"
         android:id="@+id/novo_texto"
         app:layout_constraintBottom_toBottomOf="parent"
